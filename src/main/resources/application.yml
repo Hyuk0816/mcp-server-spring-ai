@@ -1,0 +1,12 @@
+spring:
+  ai:
+    mcp:
+      server:
+        port: 8080
+        tools:
+          base-package: dev.study.springmcpmodel.tool
+
+  data:
+    redis:
+      host: localhost
+      port: 6379
